@@ -11,11 +11,11 @@
   <li>Responsive design</li>
 </ul>
 
-<h2>Desktop Responsive</h2>
+<h2>Desktop View</h2>
 
 ![Screenshot (10)](https://github.com/arosayru/Frontend_Project-Resturent_Website/assets/107207994/768f648f-7a06-44e3-97cd-c5f15afe0abd)
 
-<h2>Mobile Responsive</h2>
+<h2>Mobile View</h2>
 
 ![Screenshot (8)](https://github.com/arosayru/Frontend_Project-Resturent_Website/assets/107207994/36c2c509-0c82-4072-8b01-8d4f65e84a09)
 
