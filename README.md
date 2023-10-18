@@ -25,3 +25,5 @@
   <li>CSS</li>
   <li>Javascript</li>
 </ul>
+
+<p>For the knowledge provided for free, a special thank you to Adrian Hajdin of JS Mastery</p>
