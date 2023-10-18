@@ -26,4 +26,6 @@
   <li>Javascript</li>
 </ul>
 
+<hr />
+
 <p>For the knowledge provided for free, a special thank you to Adrian Hajdin of JS Mastery</p>
